@@ -1,14 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Srinivas%20Sayinni&fontSize=55&fontColor=00f5ff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Java%2C%20Spring%20Boot%20%7C%20AI%2FML&descAlignY=62&descSize=18" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Srinivas+%F0%9F%91%8B;I+build+secure+REST+APIs+with+Spring+Boot+%E2%98%95;I+train+computer+vision+models+with+YOLO+%F0%9F%91%81%EF%B8%8F;Open+to+Software+Engineer+roles+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Hi+I%27m+Srinivas+%F0%9F%91%8B;I+build+secure+REST+APIs+with+Spring+Boot;I+train+computer+vision+models+with+YOLO;Open+to+Software+Engineer+roles+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <a href="https://srinivas-sayinni.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00f5ff?style=for-the-badge&logoColor=black"/></a>
+  <a href="https://srinivas-sayinni.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-008b9a?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/srinivas-sayinni-aa208a267"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:srinivassayinni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- <img src="https://komarev.com/ghpvc/?username=Srinivas800&style=for-the-badge&color=302b63&label=VIEWS" /> -->
+  <img src="https://komarev.com/ghpvc/?username=Srinivas800&style=for-the-badge&color=302b63&label=VIEWS" />
 </p>
 
 ---
@@ -40,11 +40,6 @@ B.Tech CSE (AI/ML) graduate from **CMR Institute of Technology**, Hyderabad. I s
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Srinivas800&show_icons=true&theme=radical&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivas800&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Srinivas800&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ### 🐍 Contribution Snake
