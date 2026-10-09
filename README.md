@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://srinivas-sayinni.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00f5ff?style=for-the-badge&logo=netlify&logoColor=black"/></a>
+  <a href="https://srinivas-sayinni.netlify.app/">
   <a href="https://www.linkedin.com/in/srinivas-sayinni-aa208a267"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:srinivassayinni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <!-- <img src="https://komarev.com/ghpvc/?username=Srinivas800&style=for-the-badge&color=302b63&label=VIEWS" /> -->
