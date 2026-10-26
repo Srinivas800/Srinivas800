@@ -31,6 +31,7 @@ B.Tech CSE (AI/ML) graduate from **CMR Institute of Technology**, Hyderabad. I s
 | Project | What it does | Tech |
 |---|---|---|
 | 🔧 **[Automob Mechanic](https://automob-mechanic.onrender.com)** | Full-stack car service booking platform. 7 REST APIs, 22ms average response, admin dashboard, and a Docker image cut by 69% (600MB → 185MB) | Java, Spring Boot, JPA/Hibernate, Docker |
+|  **[Agentforce--Pedal-Pro-Rental](https://github.com/Srinivas800/Agentforce--Pedal-Pro-Rental)** |  Built a bike rental Agentforce agent that checks availability, books via Salesforce Flows, and escalates cancellations within two hours to staff |Salesforce Agentforce studio , Flow Builder , Einstein|
 | 📧 **[daily-job-email](https://github.com/Srinivas800/daily-job-email)** | Finds software job openings and emails 10–20 listings daily at 12 PM IST via GitHub Actions, with zero manual work | Python, SerpAPI, SMTP |
 | 🪖 **YOLO-ESCA** | Helmet detection for UAVs: **94.7% mAP@0.5 at 65.3 FPS**, detecting 41.7% more helmets than YOLOv5n | Python, YOLOv5, PyTorch, OpenCV |
 
