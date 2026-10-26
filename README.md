@@ -39,7 +39,7 @@ B.Tech CSE (AI/ML) graduate from **CMR Institute of Technology**, Hyderabad. I s
 ### 📊 GitHub Stats
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Srinivas800&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivas800&layout=compact&theme=radical&hide_border=true" />
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivas800&layout=compact&theme=radical&hide_border=true" /> -->
 </p>
 
 ### 🐍 Contribution Snake
