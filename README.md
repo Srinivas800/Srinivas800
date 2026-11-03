@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 B.Tech CSE (AI/ML) graduate from **CMR Institute of Technology**, Hyderabad. I specialise in **enterprise Java, Spring Boot and secure REST API design**, and I also work on **automation and applied AI/ML**.
 
-- 🔭 Looking for a **Software Engineer** role building scalable, high-availability systems
+<!-- 🔭 Looking for a **Software Engineer** role building scalable, high-availability systems-->
 - 🧠 Solved **500+ DSA problems**, LeetCode contest rating **1500+**
 - ☁️ **Salesforce Agentforce Specialist** certified
 - 📍 Hyderabad, India
